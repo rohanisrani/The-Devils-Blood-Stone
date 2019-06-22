@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<img ssrc="https://raw.githubusercontent.com/terminator69851/The-Devils-Blood-Stone/master/Title_Screen.jpg">
+<img src="https://raw.githubusercontent.com/terminator69851/The-Devils-Blood-Stone/master/Title_Screen.jpg">
 <h1>
 
 The Devils Blood Stone
